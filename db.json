@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "metro": [
+    {
+      "id": "c6e5d15c-fc91-4271-9f19-52c7f34e1df9",
+      "nombre": "asd",
+      "sector": "asd",
+      "salida": "asd",
+      "llegada": "asd",
+      "maquinista": "asd",
+      "detalles": "asd"
+    }
+  ]
+}
