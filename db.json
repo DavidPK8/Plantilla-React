@@ -18,13 +18,13 @@
   },
   "metro": [
     {
-      "id": "c6e5d15c-fc91-4271-9f19-52c7f34e1df9",
-      "nombre": "asd",
-      "sector": "asd",
+      "nombre": "Huevardos",
+      "sector": "ElHuevo",
       "salida": "asd",
       "llegada": "asd",
       "maquinista": "asd",
-      "detalles": "asd"
+      "detalles": "asd",
+      "id": "c6e5d15c-fc91-4271-9f19-52c7f34e1df9"
     }
   ]
 }
